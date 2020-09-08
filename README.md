@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **React, Vue.js, Express**
 
-- 👯 I’m looking to collaborate on [Shinobi](https://gitlab.com/Shinobi-Systems/Shinobi)
-
 - 👨‍💻 All of my projects are available at [https://kevink.io](https://kevink.io)
 
 - 💬 Ask me about **Python 3**
